@@ -9,7 +9,7 @@ public class DnaSequenceModel {
     @Pattern(regexp = "^[ACGT]+$", message = "La secuencia de ADN solo puede contener los caracteres A, C, G, T.")
     private String sequence;
 
-    // Getters y setters
+    
     public String getSequence() {
         return sequence;
     }

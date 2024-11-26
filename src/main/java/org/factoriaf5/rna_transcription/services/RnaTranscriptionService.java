@@ -1,9 +1,5 @@
 package org.factoriaf5.rna_transcription.services;
 
-
-
-
-
 import org.factoriaf5.rna_transcription.RnaTranscription;
 import org.springframework.stereotype.Service;
 

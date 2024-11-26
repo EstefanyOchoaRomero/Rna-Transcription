@@ -4,7 +4,7 @@ import javax.validation.Valid;
 
 import org.factoriaf5.rna_transcription.models.DnaSequenceModel;
 import org.factoriaf5.rna_transcription.services.RnaTranscriptionService;
-import org.springframework.beans.factory.annotation.Autowired;  // Asegúrate de que la clase DnaSequence esté en el paquete correcto
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.PostMapping;
