@@ -8,7 +8,6 @@ public class RnaTranscriptionService {
 
     private final RnaTranscription rnaTranscription;
 
-    // Constructor que inyecta la clase RnaTranscription
     public RnaTranscriptionService() {
         this.rnaTranscription = new RnaTranscription();
     }
